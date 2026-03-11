@@ -1,6 +1,20 @@
 ---
-task:
-    title: 'Immersion Experience – Public Sector Finance Professionals'
+lab:
+  title: Untitled exercise
+  description: Finance professionals in the public sector play a critical role in
+    ensuring that public sector initiatives and programs are fiscally responsible
+    and sustainable. Their ability to evaluate the financial impacts of policies enables
+    informed decision-making and effective allocation of public resources. In this
+    Immersion Experience, you'll leverage Microsoft 365 Copilot to gather contextual
+    data, identify key cost drivers or funding gaps, and develop a comprehensive financial
+    analysis. These insights directly support policy formulation and budget decisions,
+    enhancing transparency and accountability in public finance.
+  duration: 28 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 ## Immersion Experience – Public Sector Finance Professionals
