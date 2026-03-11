@@ -1,6 +1,21 @@
 ---
-task:
-    title: 'Immersion Experience – Public Sector Human Resources (HR) Professionals'
+lab:
+  title: Untitled exercise
+  description: As an HR professional in the public sector, streamlining the hiring
+    process is key to building a capable, mission-aligned workforce—especially when
+    identifying candidates who meet civil service requirements. In this Immersion
+    Experience, you’ll discover how to use Microsoft 365 Copilot to analyze workforce
+    trends, create standardized role descriptions, and develop reusable interview
+    guides. These tools will help you attract, evaluate, and select qualified candidates
+    more efficiently - ensuring a consistent, data-informed hiring process that meets
+    civil service requirements and supports long-term organizational goals.
+  duration: 32 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Guides
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 ## Immersion Experience – Public Sector Human Resources (HR) Professionals
