@@ -1,6 +1,20 @@
 ---
-task:
-    title: 'Immersion Experience – Public Sector Procurement Professionals'
+lab:
+  title: Untitled exercise
+  description: As a procurement professional within the public sector, creating clear,
+    strategic Requests for Proposal (RFPs) is essential to securing the right vendor
+    partnerships for mission-driven initiatives. In this Immersion Experience, you’ll
+    use Microsoft 365 Copilot to define project needs, draft a compelling RFP, and
+    communicate your plan effectively to internal stakeholders. Whether you're preparing
+    an RFP for upgrading IT infrastructure, developing training programs, or managing
+    construction projects, you’ll gain hands-on experience with tools that streamline
+    procurement workflows and boost productivity across your department.
+  duration: 36 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 ## Immersion Experience – Public Sector Procurement Professionals
