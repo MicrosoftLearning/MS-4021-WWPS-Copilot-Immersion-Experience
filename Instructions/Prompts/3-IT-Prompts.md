@@ -1,6 +1,19 @@
 ---
-task:
-    title: 'Immersion Experience – Public Sector IT Professionals'
+lab:
+  title: Untitled exercise
+  description: As an IT professional within the public sector, driving effective digital
+    service delivery and internal adoption is key to supporting mission-critical operations.
+    In this Immersion Experience, you’ll learn how to use Microsoft 365 Copilot to
+    research relevant IT features, communicate updates clearly to staff, and gather
+    actionable feedback to guide future implementation decisions. Enhance productivity,
+    streamline change management, and ensure your technology investments deliver real
+    value across your agency or department.
+  duration: 36 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 ## Immersion Experience – Public Sector IT Professionals
