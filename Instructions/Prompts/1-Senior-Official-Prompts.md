@@ -1,6 +1,20 @@
 ---
-task:
-    title: 'Immersion Experience – Public Sector Senior Officials '
+lab:
+  title: Untitled exercise
+  description: As a senior official within the public sector, effective communication
+    is critical—whether you're leading a quarterly update, coordinating a planning
+    session, or responding to an emergency. Clear, strategic messaging ensures your
+    team is aligned, informed, and ready to act. In this Immersion Experience, you’ll
+    explore how Microsoft 365 Copilot can help you prepare for your next all-staff
+    meeting by drafting a compelling speech, generating supporting materials, and
+    maintaining consistent communication across formats. Empower your leadership with
+    tools that enhance clarity, confidence, and impact.
+  duration: 46 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 ## Immersion Experience – Public Sector Senior Officials  
